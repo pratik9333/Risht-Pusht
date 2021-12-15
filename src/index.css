@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Roboto:wght@500&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 33px;
+  color: #000000;
+}
